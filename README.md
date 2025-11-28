@@ -1,26 +1,25 @@
 ## Hi there 👋
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ciao,%20sono%20[Alessia]!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=[A%20passionate%20Computer%20Science%20Student%20from%20Italy%20🇮🇹%20🇪🇺]&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ciao,%20sono%20Alessia!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20Computer%20Science%20Student%20from%20Italy%20🇮🇹%20🇪🇺&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
 
 ### 🚀 Sviluppatore | 🛠️ Creator | 🎓 Studente
 *Benvenuto nel mio profilo GitHub! Qui condivido i miei progetti e il mio percorso di apprendimento all'università.*
-
-[Portfolio](https://img.shields.io/badge/Portfolio-In_Lavorazione-yellow)) • [Linkedin](https://linkedin.com/in/tuo-profilo) • [Instagram](https://www.instagram.com/alemcc1/)
+![Portfolio](https://img.shields.io/badge/Portfolio-Loading..._⏳-yellow) • [Linkedin](https://linkedin.com/in/MaccarroneAlessia) • [Instagram](https://www.instagram.com/alemcc1/) • [GoogleDevelopers](g.dev/MaccarroneAlessia)
 
 ---
 </div>
 
 ## 👨‍💻 Su di me
 
-- 🔭 Attualmente sto lavorando su diversi progetti quali: **Machine learning e Cloud"**
+- 🔭 Attualmente sto lavorando su diversi progetti quali: **Machine learning e Cloud**
 - 🌱 Sto imparando **Docker, Analisi dati**
-- 👯 Cerco collaborazioni...**
+- 👯 Cerco collaborazioni su progetti interessanti...
 - 💬 Chiedimi pure di **Java, Python, C++**
-- 📫 Come raggiungermi: **maccalessia@gmail.com**
+- 📫 Come raggiungermi: [maccalessia@gmail.com](mailto:maccalessia@gmail.com)
 - ⚡ Curiosità: **Trasformo il caffè in codice. ☕**
 
 ---
@@ -70,15 +69,15 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUO-USERNAME&theme=dracula&locale=it" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaccarroneAlessia&theme=dracula&locale=it" alt="GitHub Streak" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TUO-USERNAME&color=blueviolet&style=flat-square&label=Profile+Views" alt="Conteggio visite" />
+  <img src="https://komarev.com/ghpvc/?username=MaccarroneAlessia&color=blueviolet&style=flat-square&label=Profile+Views" alt="Conteggio visite" />
   <br>
-  <i>Grazie per aver visitato il mio profilo! <3 </i>
+  <i>Grazie per aver visitato il mio profilo! ❤️ </i>
 </div>
 
 <!--
