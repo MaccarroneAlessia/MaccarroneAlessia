@@ -8,6 +8,8 @@
 
 ### 🚀 Sviluppatore | 🛠️ Creator | 🎓 Studente
 *Benvenuto nel mio profilo GitHub! Qui condivido i miei progetti e il mio percorso di apprendimento all'università.*
+
+
 ![Portfolio](https://img.shields.io/badge/Portfolio-Loading..._⏳-yellow) • [Linkedin](https://linkedin.com/in/MaccarroneAlessia) • [Instagram](https://www.instagram.com/alemcc1/) • [GoogleDevelopers](https://developers.google.com/profile/u/MaccarroneAlessia)
 
 ---
