@@ -1,9 +1,7 @@
 ## Hi there 👋
-### I'm Alessia
-#### A passionate Computer Science Student from Italy 🇮🇹 🇪🇺
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ciao,%20sono%20[Tuo%20Nome]!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=[Tua%20Professione/Ruolo]&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ciao,%20sono%20[Alessia]!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=[A%20passionate%20Computer%20Science%20Student%20from%20Italy%20🇮🇹%20🇪🇺]&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
@@ -60,11 +58,11 @@
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&theme=dracula&locale=it" alt="Le statistiche GitHub di TUO-USERNAME" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaccarroneAlessia&show_icons=true&theme=dracula&locale=it" alt="Le mie statistiche GitHub" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUO-USERNAME&layout=compact&theme=dracula&locale=it" alt="I linguaggi più usati da TUO-USERNAME" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaccarroneAlessia&layout=compact&theme=dracula&locale=it" alt="I miei linguaggi più usati" />
 </a>
 
 </div>
