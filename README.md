@@ -1,6 +1,6 @@
-## Hi there 👋🍕
+## Ciao🍕
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ciao,%20I'm%20Alessia!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20Computer%20Science%20Student%20from%20Italy%20🇮🇹%20🇪🇺&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there👋,%20I'm%20Alessia!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20Computer%20Science%20Student%20from%20Italy%20🇮🇹%20🇪🇺&descAlignY=51&descAlign=62" />
 </div>
 
 <div align="center">
